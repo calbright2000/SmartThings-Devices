@@ -1,5 +1,5 @@
 /**
- *  Monoprice Motion Sensor
+ *  Monoprice Motion Sensor test
  *
  *  Capabilities: Motion Sensor, Temperature Measurement, Battery Indicator
  *
